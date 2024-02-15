@@ -6,15 +6,14 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 
 # Projects
 
-### [Push_Swap](https://github.com/lanzaj/push_swap)
-Sorting a stack using another stack
-
 ### [Cub3D](https://github.com/lanzaj/cub3d)
 A Wolfensteing3D-like video game
 
+### [Push_Swap](https://github.com/lanzaj/push_swap)
+Sorting a stack using another stack
+
 ### [So_long](https://github.com/lanzaj/so_long)
 A 2D video game
-
 
 ### [Minishell](https://github.com/lanzaj/minishell)
 A simple functional shell
