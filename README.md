@@ -1,4 +1,8 @@
-### Hi there 👋
+[![jlanza's 42 stats](https://badge.mediaplus.ma/darkblue/jlanza?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+### Cub3D
+Creation d'un jeu vidéo en ray casting.
+
 
 <!--
 **lanzaj/lanzaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
