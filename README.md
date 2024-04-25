@@ -5,7 +5,7 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 [![jlanza's 42 stats](https://badge.mediaplus.ma/darkblue/jlanza?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 # Projects
-
+<div>
 <style>
 .static-gif,
 .hover-gif {
@@ -96,6 +96,7 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
         <span class="gif-text">so_long</span>
         <div class="undertext">A 2D video game</div>
     </a>
+</div>
 </div>
 
 ### [Minishell](https://github.com/lanzaj/minishell)
