@@ -6,14 +6,97 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 
 # Projects
 
-### [Cub3D](https://github.com/lanzaj/cub3d)
-A Wolfensteing3D-like video game
+<style>
+.static-gif,
+.hover-gif {
+  display: block;
+  width: 300px;
+  height: 168px;
+  border-radius: 10px;
+  transition: opacity 0.3s ease;
+  transition: transform 0.5s;
+}
+.static-gif {
+  filter: grayscale(100%) brightness(70%);
+}
+.hover-gif {
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.gif-text {
+  position: absolute;
+  top: 40%;
+  left: 46%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  font-weight: 800;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 18px;
+  opacity: 1;
+  transition: opacity 0.3s ease, transform 0.5s;
+}
+.gif-container:hover .hover-gif {
+  opacity: 1;
+  transform: scale(1.1) translateY(10px); 
+}
+.gif-container:hover .static-gif {
+  opacity: 0;
+  transform: scale(1.1) translateY(10px); 
+}
+.gif-container:hover .gif-text {
+  opacity: 1;
+  transform: translate(-50%, -150%) scale(0.8);
+}
+.undertext {
+  color: white;
+  text-align: center;
+  width: 300px;
+  opacity: 1;
+  transition: opacity 0.3s ease, transform 0.1s ease;
+}
+.gif-container:hover .undertext {
+  transform: translateY(-5px);
+  opacity: 0;
+}
+.spacer {
+  width: 330px;
+  display: inline-block;
+}
+.gif-container{
+  width: 300px;
+  position: relative;
+  left: 0px;
+}
+</style>
 
-### [Push_Swap](https://github.com/lanzaj/push_swap)
-Sorting a stack using another stack
-
-### [So_long](https://github.com/lanzaj/so_long)
-A 2D video game
+<div class="spacer">
+    <a href="https://github.com/lanzaj/push_swap" class="gif-container">
+        <img src="./push_swap.gif" alt="Alt Text" class="static-gif"/>
+        <img src="./push_swap.gif" alt="Alt Text" class="hover-gif"/>
+        <span class="gif-text">push_swap</span>
+        <div class="undertext">Sorting a stack</div>
+    </a>
+</div>
+<div class="spacer">
+    <a href="https://github.com/lanzaj/cub3d" class="gif-container">
+        <img src="./cub3d.gif" alt="Alt Text" class="static-gif"/>
+        <img src="./cub3d.gif" alt="Alt Text" class="hover-gif"/>
+        <span class="gif-text">CUB3D</span>
+        <div class="undertext">A Wolfensteing3D-like video game</div>
+    </a>
+</div>
+<div class="spacer">
+    <a href="https://github.com/lanzaj/so_long" class="gif-container">
+        <img src="./so_long.gif" alt="Alt Text" class="static-gif"/>
+        <img src="./so_long.gif" alt="Alt Text" class="hover-gif"/>
+        <span class="gif-text">so_long</span>
+        <div class="undertext">A 2D video game</div>
+    </a>
+</div>
 
 ### [Minishell](https://github.com/lanzaj/minishell)
 A simple functional shell
