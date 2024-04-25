@@ -74,7 +74,7 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 </style>
 
 <div class="spacer">
-    <a href="https://github.com/lanzaj/push_swap" class="gif-container">
+    <a href="url_to_destination" class="gif-container">
         <img src="./push_swap.gif" alt="Alt Text" class="static-gif"/>
         <img src="./push_swap.gif" alt="Alt Text" class="hover-gif"/>
         <span class="gif-text">push_swap</span>
@@ -82,7 +82,7 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
     </a>
 </div>
 <div class="spacer">
-    <a href="https://github.com/lanzaj/cub3d" class="gif-container">
+    <a href="url_to_destination" class="gif-container">
         <img src="./cub3d.gif" alt="Alt Text" class="static-gif"/>
         <img src="./cub3d.gif" alt="Alt Text" class="hover-gif"/>
         <span class="gif-text">CUB3D</span>
@@ -90,7 +90,7 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
     </a>
 </div>
 <div class="spacer">
-    <a href="https://github.com/lanzaj/so_long" class="gif-container">
+    <a href="url_to_destination" class="gif-container">
         <img src="./so_long.gif" alt="Alt Text" class="static-gif"/>
         <img src="./so_long.gif" alt="Alt Text" class="hover-gif"/>
         <span class="gif-text">so_long</span>
@@ -98,19 +98,14 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
     </a>
 </div> -->
 
-<a href="url_to_destination" style="position: relative; display: inline-block; width: 30%;">
-  <img src="push_swap.gif" alt="Alt Text" style="width: 100%; transition: transform 0.5s;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px; font-weight: bold; text-align: center; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); z-index: 1;">Text Over GIF</div>
-</a>
 
-
-### [Cub3D]()
+### [Cub3D](https://github.com/lanzaj/cub3d)
 A Wolfensteing3D-like video game
 
-### [Push_Swap]()
+### [Push_Swap](https://github.com/lanzaj/push_swap)
 Sorting a stack using another stack
 
-### [So_long]()
+### [So_long](https://github.com/lanzaj/so_long)
 A 2D video game
 
 ### [Minishell](https://github.com/lanzaj/minishell)
