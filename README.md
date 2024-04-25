@@ -5,8 +5,8 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 [![jlanza's 42 stats](https://badge.mediaplus.ma/darkblue/jlanza?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 # Projects
-<div>
-<style>
+
+<!-- <style>
 .static-gif,
 .hover-gif {
   display: block;
@@ -35,7 +35,7 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
   font-weight: 800;
   padding: 5px 10px;
   border-radius: 5px;
-  font-size: 18px;
+  font-size: 12px;
   opacity: 1;
   transition: opacity 0.3s ease, transform 0.5s;
 }
@@ -49,7 +49,7 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 }
 .gif-container:hover .gif-text {
   opacity: 1;
-  transform: translate(-50%, -150%) scale(0.8);
+  transform: translate(-50%, -200%);
 }
 .undertext {
   color: white;
@@ -96,8 +96,29 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
         <span class="gif-text">so_long</span>
         <div class="undertext">A 2D video game</div>
     </a>
-</div>
-</div>
+</div> -->
+
+<a href="url_to_destination" style="position: relative; display: inline-block; width: 30%;">
+  <img src="push_swap.gif" alt="Alt Text" style="width: 100%; transition: transform 0.5s;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px; font-weight: bold; text-align: center; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); z-index: 1;">Text Over GIF</div>
+</a>
+
+<style>
+  a:hover img {
+    transform: scale(1.1);
+  }
+</style>
+
+
+
+### [Cub3D]()
+A Wolfensteing3D-like video game
+
+### [Push_Swap]()
+Sorting a stack using another stack
+
+### [So_long]()
+A 2D video game
 
 ### [Minishell](https://github.com/lanzaj/minishell)
 A simple functional shell
