@@ -103,13 +103,6 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px; font-weight: bold; text-align: center; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); z-index: 1;">Text Over GIF</div>
 </a>
 
-<style>
-  a:hover img {
-    transform: scale(1.1);
-  }
-</style>
-
-
 
 ### [Cub3D]()
 A Wolfensteing3D-like video game
