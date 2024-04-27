@@ -6,7 +6,7 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 
 # Projects
 
-<!-- <style>
+<style>
 .static-gif,
 .hover-gif {
   display: block;
@@ -64,6 +64,7 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 }
 .spacer {
   width: 330px;
+  height: 210px;
   display: inline-block;
 }
 .gif-container{
@@ -96,7 +97,11 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
         <span class="gif-text">so_long</span>
         <div class="undertext">A 2D video game</div>
     </a>
-</div> -->
+</div>
+
+<img src="./so_long.gif" alt="Alt Text" class="static-gif"/>
+
+
 
 
 ### [Cub3D](https://github.com/lanzaj/cub3d)
