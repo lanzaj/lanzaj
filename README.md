@@ -5,7 +5,7 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 [![jlanza's 42 stats](https://badge.mediaplus.ma/darkblue/jlanza?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 # Projects
-
+<!-- 
 <style>
 .static-gif,
 .hover-gif {
@@ -97,10 +97,16 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
         <span class="gif-text">so_long</span>
         <div class="undertext">A 2D video game</div>
     </a>
-</div>
+</div> -->
 
 
-
+<style>
+  .rounded-image {
+    border-radius: 10px;
+    overflow: hidden;
+    display: inline-block; /* Ensures the span element takes up only as much width as necessary */
+  }
+</style>
 
 
 ### [Cub3D](https://github.com/lanzaj/cub3d)
@@ -119,7 +125,9 @@ Sorting a stack using another stack
 
 ### [So_long](https://github.com/lanzaj/so_long)
 <a href="https://github.com/lanzaj/so_long">
-  <img src="./so_long.gif" alt="Alt Text" style="width:250px; border-radius: 10px;">
+  <span class="rounded-image">
+    <img src="./so_long.gif" alt="Alt Text" style="width:250px;">
+  </span>
 </a>
 
 A 2D video game
