@@ -99,27 +99,27 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
     </a>
 </div>
 
-<a href="https://github.com/lanzaj/so_long">
-  <img src="./cub3d.gif" alt="Alt Text" style="width:200px; border-radius: 10px;">
-</a>
-<a href="https://github.com/lanzaj/so_long">
-  <img src="./so_long.gif" alt="Alt Text" style="width:200px; border-radius: 10px;">
-</a>
-<a href="https://github.com/lanzaj/so_long">
-  <img src="./push_swap.gif" alt="Alt Text" style="width:200px; border-radius: 10px;">
-</a>
 
 
 
 
 ### [Cub3D](https://github.com/lanzaj/cub3d)
 A Wolfensteing3D-like video game
+<a href="https://github.com/lanzaj/so_long">
+  <img src="./cub3d.gif" alt="Alt Text" style="width:200px; border-radius: 10px;">
+</a>
 
 ### [Push_Swap](https://github.com/lanzaj/push_swap)
 Sorting a stack using another stack
+<a href="https://github.com/lanzaj/so_long">
+  <img src="./so_long.gif" alt="Alt Text" style="width:200px; border-radius: 10px;">
+</a>
 
 ### [So_long](https://github.com/lanzaj/so_long)
 A 2D video game
+<a href="https://github.com/lanzaj/so_long">
+  <img src="./push_swap.gif" alt="Alt Text" style="width:200px; border-radius: 10px;">
+</a>
 
 ### [Minishell](https://github.com/lanzaj/minishell)
 A simple functional shell
