@@ -6,15 +6,22 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 
 # Projects
 
+### [Minishell](https://github.com/lanzaj/minishell)
+<a href="https://github.com/lanzaj/minishell">
+  <img src="./minishell_R.gif" alt="Alt Text" style="width:250px;">
+</a>
+
+We recoded bash (almost)
+
 ### [Cub3D](https://github.com/lanzaj/cub3d)
-<a href="https://github.com/lanzaj/so_long">
+<a href="https://github.com/lanzaj/cub3d">
   <img src="./cub3d_R.gif" alt="Alt Text" style="width:250px;">
 </a>
 
 A Wolfensteing3D-like video game
 
 ### [Push_Swap](https://github.com/lanzaj/push_swap)
-<a href="https://github.com/lanzaj/so_long">
+<a href="https://github.com/lanzaj/push_swap">
   <img src="./push_swap_R.gif" alt="Alt Text" style="width:250px;">
 </a>
 
@@ -26,9 +33,6 @@ Sorting a stack using another stack
 </a>
 
 A 2D video game
-
-### [Minishell](https://github.com/lanzaj/minishell)
-A simple functional shell
 
 ### [Pong_office](https://github.com/rertzer/ft_transcendence)
 A Pong game online hidden in a LibreOffice Calc page to play at work undetected
