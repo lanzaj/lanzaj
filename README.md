@@ -11,7 +11,7 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
   <img src="./minishell_R.gif" alt="Alt Text" style="width:250px;">
 </a>
 
-We recoded bash (almost)
+We coded a shell !
 
 ### Video Games ([Cub3D](https://github.com/lanzaj/cub3d) / [So_long](https://github.com/lanzaj/so_long))
 <a href="https://github.com/lanzaj/cub3d">
@@ -21,7 +21,7 @@ We recoded bash (almost)
   <img src="./so_long_R.gif" alt="Alt Text" style="width:250px;">
 </a>
 
-A Wolfensteing3D-like and a 2D video game
+A *Wolfensteing3D-like* and a *2D* video game coded in C without any game engine.
 
 ### [Push_Swap](https://github.com/lanzaj/push_swap)
 <a href="https://github.com/lanzaj/push_swap">
@@ -29,11 +29,6 @@ A Wolfensteing3D-like and a 2D video game
 </a>
 
 Sorting a stack using another stack
-
-### 
-
-
-
 
 ### [Pong_office](https://github.com/rertzer/ft_transcendence)
 A Pong game online hidden in a LibreOffice Calc page to play at work undetected
@@ -46,17 +41,3 @@ A Pong game online hidden in a LibreOffice Calc page to play at work undetected
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,react,ts,docker,linux,bash,git,ocaml,python,&perline=50" />
     </a>
 </p>
-
-<!--
-**lanzaj/lanzaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
