@@ -13,12 +13,15 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 
 We recoded bash (almost)
 
-### [Cub3D](https://github.com/lanzaj/cub3d)
+### Video Games ([Cub3D](https://github.com/lanzaj/cub3d) / [So_long](https://github.com/lanzaj/so_long))
 <a href="https://github.com/lanzaj/cub3d">
   <img src="./cub3d_R.gif" alt="Alt Text" style="width:250px;">
 </a>
+<a href="https://github.com/lanzaj/so_long">
+  <img src="./so_long_R.gif" alt="Alt Text" style="width:250px;">
+</a>
 
-A Wolfensteing3D-like video game
+A Wolfensteing3D-like and a 2D video game
 
 ### [Push_Swap](https://github.com/lanzaj/push_swap)
 <a href="https://github.com/lanzaj/push_swap">
@@ -27,12 +30,10 @@ A Wolfensteing3D-like video game
 
 Sorting a stack using another stack
 
-### [So_long](https://github.com/lanzaj/so_long)
-<a href="https://github.com/lanzaj/so_long">
-  <img src="./so_long_R.gif" alt="Alt Text" style="width:250px;">
-</a>
+### 
 
-A 2D video game
+
+
 
 ### [Pong_office](https://github.com/rertzer/ft_transcendence)
 A Pong game online hidden in a LibreOffice Calc page to play at work undetected
