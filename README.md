@@ -100,34 +100,26 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 </div> -->
 
 
-<style>
-  .rounded-image {
-    border-radius: 10px;
-    overflow: hidden;
-    display: inline-block; /* Ensures the span element takes up only as much width as necessary */
-  }
-</style>
+
 
 
 ### [Cub3D](https://github.com/lanzaj/cub3d)
 <a href="https://github.com/lanzaj/so_long">
-  <img src="./cub3d.gif" alt="Alt Text" style="width:250px; border-radius: 10px;">
+  <img src="./cub3d_R.gif" alt="Alt Text" style="width:250px;">
 </a>
 
 A Wolfensteing3D-like video game
 
 ### [Push_Swap](https://github.com/lanzaj/push_swap)
 <a href="https://github.com/lanzaj/so_long">
-  <img src="./push_swap.gif" alt="Alt Text" style="width:250px; border-radius: 10px;">
+  <img src="./push_swap_R.gif" alt="Alt Text" style="width:250px;">
 </a>
 
 Sorting a stack using another stack
 
 ### [So_long](https://github.com/lanzaj/so_long)
 <a href="https://github.com/lanzaj/so_long">
-  <span class="rounded-image">
-    <img src="./so_long.gif" alt="Alt Text" style="width:250px;">
-  </span>
+  <img src="./so_long_R.gif" alt="Alt Text" style="width:250px;">
 </a>
 
 A 2D video game
