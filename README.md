@@ -104,22 +104,25 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 
 
 ### [Cub3D](https://github.com/lanzaj/cub3d)
-A Wolfensteing3D-like video game\
 <a href="https://github.com/lanzaj/so_long">
-  <img src="./cub3d.gif" alt="Alt Text" style="width:200px; border-radius: 10px;">
+  <img src="./cub3d.gif" alt="Alt Text" style="width:250px; border-radius: 10px;">
 </a>
+
+A Wolfensteing3D-like video game
 
 ### [Push_Swap](https://github.com/lanzaj/push_swap)
-Sorting a stack using another stack\
 <a href="https://github.com/lanzaj/so_long">
-  <img src="./so_long.gif" alt="Alt Text" style="width:200px; border-radius: 10px;">
+  <img src="./push_swap.gif" alt="Alt Text" style="width:250px; border-radius: 10px;">
 </a>
 
+Sorting a stack using another stack
+
 ### [So_long](https://github.com/lanzaj/so_long)
-A 2D video game\
 <a href="https://github.com/lanzaj/so_long">
-  <img src="./push_swap.gif" alt="Alt Text" style="width:200px; border-radius: 10px;">
+  <img src="./so_long.gif" alt="Alt Text" style="width:250px; border-radius: 10px;">
 </a>
+
+A 2D video game
 
 ### [Minishell](https://github.com/lanzaj/minishell)
 A simple functional shell
