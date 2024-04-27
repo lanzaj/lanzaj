@@ -5,8 +5,8 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 [![jlanza's 42 stats](https://badge.mediaplus.ma/darkblue/jlanza?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 # Projects
-<!-- 
-<style>
+
+<!-- <style>
 .static-gif,
 .hover-gif {
   display: block;
@@ -100,8 +100,21 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 </div> -->
 
 
+<img src="./so_long.gif" alt="Alt Text" class="bw-image">
 
+<style>
+  /* CSS for black and white image */
+  .bw-image {
+    width: 100%;
+    filter: grayscale(1); /* Make the image black and white */
+    transition: filter 0.5s; /* Add a transition for smooth effect */
+  }
 
+  /* CSS for colored image on hover */
+  .bw-image:hover {
+    filter: grayscale(0); /* Revert the image to colored on hover */
+  }
+</style>
 
 ### [Cub3D](https://github.com/lanzaj/cub3d)
 <a href="https://github.com/lanzaj/so_long">
