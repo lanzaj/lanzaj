@@ -99,7 +99,8 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
     </a>
 </div>
 
-<img src="./so_long.gif" alt="Alt Text" style="width:200px"/>
+<img src="./so_long.gif" alt="Alt Text" style="width:200px; 
+  border-radius: 10px;"/>
 
 
 
