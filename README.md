@@ -18,7 +18,7 @@ We coded a shell !
   <img src="./cub3d_R.gif" alt="Alt Text" style="width:250px;">
 </a>
 <a href="https://github.com/lanzaj/so_long">
-  <img src="./so_long_R.gif" alt="Alt Text" style="width:250px;">
+  <img src="./so_long_R.webp" alt="Alt Text" style="width:250px;">
 </a>
 
 A *Wolfensteing3D-like* and a *2D* video game coded in C without any game engine.
