@@ -30,6 +30,14 @@ A *Wolfensteing3D-like* and a *2D* video game coded in C without any game engine
 
 Sorting a stack using another stack
 
+### [Webserv](https://github.com/lanzaj/webserv)
+<a href="https://github.com/lanzaj/webserv">
+  <img src="./webserv.webp" alt="Alt Text" style="width:250px;">
+</a>
+
+A web server coded in C
+
+
 ### [Pong_office](https://github.com/rertzer/ft_transcendence)
 A Pong game online hidden in a LibreOffice Calc page to play at work undetected
 
@@ -38,6 +46,6 @@ A Pong game online hidden in a LibreOffice Calc page to play at work undetected
 
 <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,react,ts,docker,linux,bash,git,ocaml,python,&perline=50" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,react,ts,docker,linux,bash,git,python,blender,ocaml,kubernetes&perline=50" />
     </a>
 </p>
