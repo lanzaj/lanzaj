@@ -8,7 +8,7 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 
 ### [Minishell](https://github.com/lanzaj/minishell)
 <a href="https://github.com/lanzaj/minishell">
-  <img src="./minishell_R.gif" alt="Alt Text" style="width:250px;">
+  <img src="./minishell.webp" alt="Alt Text" style="width:250px;">
 </a>
 
 We coded a shell !
@@ -25,7 +25,7 @@ A *Wolfensteing3D-like* and a *2D* video game coded in C without any game engine
 
 ### [Push_Swap](https://github.com/lanzaj/push_swap)
 <a href="https://github.com/lanzaj/push_swap">
-  <img src="./push_swap_R.gif" alt="Alt Text" style="width:250px;">
+  <img src="./push_swap.webp" alt="Alt Text" style="width:250px;">
 </a>
 
 Sorting a stack using another stack
