@@ -35,7 +35,7 @@ Sorting a stack using another stack
   <img src="./webserv.webp" alt="Alt Text" style="width:250px;">
 </a>
 
-A web server coded in C
+A web server coded in C++
 
 ### [Nand2Computer](https://github.com/lanzaj/Nand2Computer)
 <a href="https://github.com/lanzaj/Nand2Computer">
