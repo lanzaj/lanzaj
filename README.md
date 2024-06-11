@@ -5,15 +5,29 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 [![jlanza's 42 stats](https://badge.mediaplus.ma/darkblue/jlanza?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) -->
 
 # Projects
-
-### [Minishell](https://github.com/lanzaj/minishell)
+## Low Level
+### [Kernel From Scratch](https://github.com/lanzaj/kfs) / [Minishell](https://github.com/lanzaj/minishell) / [Webserv](https://github.com/lanzaj/webserv) 
+<a href="https://github.com/lanzaj/kfs">
+  <img src="./kfs.webp" alt="Alt Text" style="width:250px;">
+</a>
 <a href="https://github.com/lanzaj/minishell">
   <img src="./minishell.webp" alt="Alt Text" style="width:250px;">
 </a>
+<a href="https://github.com/lanzaj/webserv">
+  <img src="./webserv.webp" alt="Alt Text" style="width:250px;">
+</a>
 
-We coded a shell !
+  A simple OS (kernel) in `Rust`, a shell in `C` and a web server in `C++`
 
-### Video Games ([Cub3D](https://github.com/lanzaj/cub3d) / [So_long](https://github.com/lanzaj/so_long))
+### [Nand2Computer](https://github.com/lanzaj/Nand2Computer)
+<a href="https://github.com/lanzaj/Nand2Computer">
+  <img src="./Nand2Computer.webp" alt="Alt Text" style="width:250px;">
+</a>
+
+From NAND gates to my own 8 bit computer and assembly language
+
+## Video Games: 
+### [Cub3D](https://github.com/lanzaj/cub3d) / [So_long](https://github.com/lanzaj/so_long)
 <a href="https://github.com/lanzaj/cub3d">
   <img src="./cub3d.webp" alt="Alt Text" style="width:250px;">
 </a>
@@ -23,26 +37,13 @@ We coded a shell !
 
 A *Wolfensteing3D-like* and a *2D* video game coded in C without any game engine.
 
+## Data Structures & Algorithms: 
 ### [Push_Swap](https://github.com/lanzaj/push_swap)
 <a href="https://github.com/lanzaj/push_swap">
   <img src="./push_swap.webp" alt="Alt Text" style="width:250px;">
 </a>
 
 Sorting a stack using another stack
-
-### [Webserv](https://github.com/lanzaj/webserv)
-<a href="https://github.com/lanzaj/webserv">
-  <img src="./webserv.webp" alt="Alt Text" style="width:250px;">
-</a>
-
-A web server coded in C++
-
-### [Nand2Computer](https://github.com/lanzaj/Nand2Computer)
-<a href="https://github.com/lanzaj/Nand2Computer">
-  <img src="./Nand2Computer.webp" alt="Alt Text" style="width:250px;">
-</a>
-
-From NAND gates to my own 8 bit computer and assembly language
 
 ### [Pong_office](https://github.com/rertzer/ft_transcendence)
 A Pong game online hidden in a LibreOffice Calc page to play at work undetected
