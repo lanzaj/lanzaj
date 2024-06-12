@@ -21,7 +21,7 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 |[Cub3D](https://github.com/lanzaj/cub3d) | [So_long](https://github.com/lanzaj/so_long) |
 |---|---|
 |<a href="https://github.com/lanzaj/cub3d"><img src="./cub3d.webp" alt="Alt Text" style="width:400px;"></a>|<a href="https://github.com/lanzaj/so_long"><img src="./so_long.webp" alt="Alt Text" style="width:400px;"></a>|
-|A *Wolfensteing3D-like* in `C` | A *2D* video game in `C`|
+|A *Wolfensteing3D-like* in `C` without any game engine | A *2D* video game coded in `C` without any game engine|
 
 ## Data Structures & Algorithms
 ### [Push_Swap](https://github.com/lanzaj/push_swap)
