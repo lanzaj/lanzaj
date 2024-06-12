@@ -17,16 +17,12 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 |<a href="https://github.com/lanzaj/Nand2Computer"><img src="./Nand2Computer.webp" alt="Alt Text" style="width:300px;"></a>|<a href="https://github.com/lanzaj/webserv"><img src="./webserv.webp" alt="Alt Text" style="width:300px;"></a>|
 
 ## Video Games
-### [Cub3D](https://github.com/lanzaj/cub3d) / [So_long](https://github.com/lanzaj/so_long)
-<a href="https://github.com/lanzaj/cub3d">
-  <img src="./cub3d.webp" alt="Alt Text" style="width:250px;">
-</a>
-<a href="https://github.com/lanzaj/so_long">
-  <img src="./so_long.webp" alt="Alt Text" style="width:250px;">
-</a>
 
-A *Wolfensteing3D-like* and a *2D* video game coded in C without any game engine.
-
+|[Cub3D](https://github.com/lanzaj/cub3d) | [So_long](https://github.com/lanzaj/so_long) |
+|---|---|
+|<a href="https://github.com/lanzaj/cub3d"><img src="./cub3d.webp" alt="Alt Text" style="width:300px;"></a>|<a href="https://github.com/lanzaj/so_long"><img src="./so_long.webp" alt="Alt Text" style="width:300px;"></a>|
+|A *Wolfensteing3D-like* in `C`| A *2D* video game|
+Both are coded in `C` without any game engine
 ## Data Structures & Algorithms
 ### [Push_Swap](https://github.com/lanzaj/push_swap)
 <a href="https://github.com/lanzaj/push_swap">
