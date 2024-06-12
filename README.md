@@ -8,21 +8,21 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 ## Low Level
 |[Kernel From Scratch](https://github.com/lanzaj/kfs)| [Minishell](https://github.com/lanzaj/minishell) |
 |--------------------|--------------------|
-| An OS (kernel) in `Rust` and `asm`| A shell in coded in `C` |
 |<a href="https://github.com/lanzaj/kfs"><img src="./kfs.webp" alt="Alt Text" style="width:300px;"></a> | <a href="https://github.com/lanzaj/minishell"><img src="./minishell.webp" alt="Alt Text" style="width:300px;"></a>|
+| An OS (kernel) in `Rust` and `asm`| A shell in coded in `C` |
 
 | [Nand2Computer](https://github.com/lanzaj/Nand2Computer) |[Webserv](https://github.com/lanzaj/webserv) |
 |---|---|
-| My own 8bit computer and `asm`| A web server in `C++` |
 |<a href="https://github.com/lanzaj/Nand2Computer"><img src="./Nand2Computer.webp" alt="Alt Text" style="width:300px;"></a>|<a href="https://github.com/lanzaj/webserv"><img src="./webserv.webp" alt="Alt Text" style="width:300px;"></a>|
+| My own 8bit computer and `asm`| A web server in `C++` |
 
 ## Video Games
 
 |[Cub3D](https://github.com/lanzaj/cub3d) | [So_long](https://github.com/lanzaj/so_long) |
 |---|---|
 |<a href="https://github.com/lanzaj/cub3d"><img src="./cub3d.webp" alt="Alt Text" style="width:300px;"></a>|<a href="https://github.com/lanzaj/so_long"><img src="./so_long.webp" alt="Alt Text" style="width:300px;"></a>|
-|A *Wolfensteing3D-like* in `C`| A *2D* video game|
-Both are coded in `C` without any game engine
+|A *Wolfensteing3D-like* coded in `C` without any game engine | A *2D* video game coded in `C` without any game engine|
+
 ## Data Structures & Algorithms
 ### [Push_Swap](https://github.com/lanzaj/push_swap)
 <a href="https://github.com/lanzaj/push_swap">
