@@ -8,8 +8,8 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 ## Low Level
 |[Kernel From Scratch](https://github.com/lanzaj/kfs)| [Minishell](https://github.com/lanzaj/minishell) |
 |--------------------|--------------------|
-|<a href="https://github.com/lanzaj/kfs"><img src="./kfs.webp" alt="Alt Text" style="width:250px;"></a> | <a href="https://github.com/lanzaj/minishell"><img src="./minishell.webp" alt="Alt Text" style="width:250px;"></a>|
 | An OS (kernel) in `Rust` and `asm`| A shell in coded in `C` |
+|<a href="https://github.com/lanzaj/kfs"><img src="./kfs.webp" alt="Alt Text" style="width:250px;"></a> | <a href="https://github.com/lanzaj/minishell"><img src="./minishell.webp" alt="Alt Text" style="width:250px;"></a>|
 
 | [Nand2Computer](https://github.com/lanzaj/Nand2Computer) |[Webserv](https://github.com/lanzaj/webserv) |
 |---|---|
