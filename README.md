@@ -9,12 +9,12 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 |[Kernel From Scratch](https://github.com/lanzaj/kfs)| [Minishell](https://github.com/lanzaj/minishell) |
 |--------------------|--------------------|
 | An OS (kernel) in `Rust` and `asm`| A shell in coded in `C` |
-|<a href="https://github.com/lanzaj/kfs"><img src="./kfs.webp" alt="Alt Text" style="width:250px;"></a> | <a href="https://github.com/lanzaj/minishell"><img src="./minishell.webp" alt="Alt Text" style="width:250px;"></a>|
+|<a href="https://github.com/lanzaj/kfs"><img src="./kfs.webp" alt="Alt Text" style="width:300px;"></a> | <a href="https://github.com/lanzaj/minishell"><img src="./minishell.webp" alt="Alt Text" style="width:300px;"></a>|
 
 | [Nand2Computer](https://github.com/lanzaj/Nand2Computer) |[Webserv](https://github.com/lanzaj/webserv) |
 |---|---|
 | My own 8bit computer and `asm`| A web server in `C++` |
-|<a href="https://github.com/lanzaj/Nand2Computer"><img src="./Nand2Computer.webp" alt="Alt Text" style="width:250px;"></a>|<a href="https://github.com/lanzaj/webserv"><img src="./webserv.webp" alt="Alt Text" style="width:250px;"></a>|
+|<a href="https://github.com/lanzaj/Nand2Computer"><img src="./Nand2Computer.webp" alt="Alt Text" style="width:300px;"></a>|<a href="https://github.com/lanzaj/webserv"><img src="./webserv.webp" alt="Alt Text" style="width:300px;"></a>|
 
 ## Video Games
 ### [Cub3D](https://github.com/lanzaj/cub3d) / [So_long](https://github.com/lanzaj/so_long)
