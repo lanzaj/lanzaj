@@ -32,6 +32,8 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 ### [Pong_office](https://github.com/rertzer/ft_transcendence)
 A Pong game online hidden in a LibreOffice Calc page to play at work undetected
 
+### [Inception of Things](https://github.com/lanzaj/Inception-of-Things)
+An introduction to kubernetes and continuous integration.
 
 ## 💻 Tech Stack:
 
