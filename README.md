@@ -32,6 +32,7 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 ## Web
 |[Pong_office](https://github.com/rertzer/ft_transcendence)|
 |---|
+|<a href="https://github.com/lanzaj/push_swap"><img src="./pongoffice.webp" alt="Alt Text" style="width:400px;"></a>|
 |A Pong game online hidden in a LibreOffice Calc page to play at work undetected|
 
 ## DevOps
