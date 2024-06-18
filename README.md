@@ -27,7 +27,7 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 |[Push_Swap](https://github.com/lanzaj/push_swap)|
 |---|
 |<a href="https://github.com/lanzaj/push_swap"><img src="./push_swap.webp" alt="Alt Text" style="width:400px;"></a>|
-|Sorting a stack using another stack|
+|Sorting a stack using another stack in `C`|
 
 ## Web
 |[Pong_office](https://github.com/rertzer/ft_transcendence)|
