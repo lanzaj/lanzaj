@@ -50,6 +50,6 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 ## Tools
 <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,gitlab,blender,kubernetes,ansible,aws,vim,vscode&perline=50" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,gitlab,vim,vscode,docker,kubernetes,ansible,aws,blender,&perline=50" />
     </a>
 </p>
