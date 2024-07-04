@@ -42,8 +42,16 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 
 ## 💻 Tech Stack:
 
+### Language
 <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,react,ts,docker,linux,bash,git,python,assembly,blender,ocaml,rust,kubernetes,ansible,aws&perline=50" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,rust,react,js,ts,html,css,ocaml&perline=50" />
+    </a>
+</p>
+
+### Tools
+<p align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,gitlab,blender,kubernetes,ansible,aws,vim,vscode&perline=50" />
     </a>
 </p>
