@@ -40,16 +40,14 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 |---|
 |An introduction to kubernetes and continuous integration.|
 
-## 💻 Tech Stack:
-
-### Language
+## Language
 <p align="center">
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,rust,react,js,ts,html,css,ocaml&perline=50" />
     </a>
 </p>
 
-### Tools
+## Tools
 <p align="center">
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,gitlab,blender,kubernetes,ansible,aws,vim,vscode&perline=50" />
