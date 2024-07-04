@@ -25,7 +25,7 @@ I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 
 
 ## Data Structures & Algorithms
 |[Push_Swap](https://github.com/lanzaj/push_swap)|<!---[Leetcode](https://leetcode.com/u/jlanza/)|-->
-|---|---|
+|---|
 |<a href="https://github.com/lanzaj/push_swap"><img src="./push_swap.webp" alt="Alt Text" style="width:400px;"></a>|<!---![LeetCode Stats](https://leetcard.jacoblin.cool/jlanza?theme=nord&font=Laila)|-->
 |Sorting a stack using another stack in `C`|<!---My leetcode [profile](https://leetcode.com/u/jlanza/) and [github](https://github.com/lanzaj/leetcode)|-->
 
