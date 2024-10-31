@@ -1,6 +1,3 @@
-# Hi, I'm Joseph Lanza
-I started my journey at the [42 school](https://github.com/42Paris) (Paris) the 06/11/2022. I finished the Common Core the 06/12/2023. I am currently working to get a RNCP level 7 certification (information system and networks).
-
 # Projects
 ## Low Level
 |[Kernel From Scratch](https://github.com/lanzaj/kfs)|[Minishell](https://github.com/lanzaj/minishell)|
