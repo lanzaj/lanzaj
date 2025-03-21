@@ -1,5 +1,4 @@
-# LanzaJ
-## My 42 Cursus Progress 
+
 [![jlanza's 42 stats](https://badge.mediaplus.ma/darkblue/jlanza?1337Badge=off&UM6P=off)](https://github.com/lanzaj)
 
 # Projects
