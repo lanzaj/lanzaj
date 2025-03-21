@@ -40,6 +40,7 @@
 |A Pong online hidden in a LibreOffice page in `React`|
 
 ## DevOps
+
 |[Inception of Things](https://github.com/lanzaj/Inception-of-Things)|
 |---|
 |An introduction to kubernetes and continuous integration.|
