@@ -3,7 +3,8 @@
 
 # Projects
 ## Low Level
-|[Kernel From Scratch](https://github.com/lanzaj/kfs)|[Minishell](https://github.com/lanzaj/minishell)|
+
+| [Kernel From Scratch](https://github.com/lanzaj/kfs) | [Minishell](https://github.com/lanzaj/minishell) |
 |---|---|
 |<a href="https://github.com/lanzaj/kfs"><img src="./kfs.webp" alt="Alt Text" style="width:400px;"></a>|<a href="https://github.com/lanzaj/minishell"><img src="./minishell.webp" alt="Alt Text" style="width:400px;"></a>|
 | An OS (kernel) in `Rust` and `asm`| A shell in coded in `C` |
@@ -21,6 +22,7 @@
 |A *Wolfensteing3D-like* in `C` without any game engine | A *2D* video game coded in `C` without any game engine|
 
 ## Data Structures & Algorithms
+
 |[Push_Swap](https://github.com/lanzaj/push_swap)|
 |---|
 |<a href="https://github.com/lanzaj/push_swap"><img src="./push_swap.webp" alt="Alt Text" style="width:400px;"></a>|
@@ -31,6 +33,7 @@
 <!---My leetcode [profile](https://leetcode.com/u/jlanza/) and [github](https://github.com/lanzaj/leetcode)|-->
 
 ## Web
+
 |[Pong_office](https://github.com/rertzer/ft_transcendence)|
 |---|
 |<a href="https://github.com/rertzer/ft_transcendence"><img src="./pongoffice.webp" alt="Alt Text" style="width:400px;"></a>|
