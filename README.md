@@ -48,7 +48,7 @@
 ## Language
 <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,dart,c,cpp,cs,python,js,ts,html,css,ocaml&perline=50" />
+    <img src="https://skillicons.dev/icons?i=rust,dart,python,js,ts,html,css,c,cpp,cs,ocaml&perline=50" />
     </a>
 </p>
 
