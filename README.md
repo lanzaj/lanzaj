@@ -52,9 +52,16 @@
     </a>
 </p>
 
+## Framework
+<p align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,react&perline=50" />
+    </a>
+</p>
+
 ## Tools
 <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,git,gitlab,vim,vscode,docker,kubernetes,ansible,aws,react,postgres,flutter,blender&perline=50" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,gitlab,vim,vscode,docker,kubernetes,ansible,aws,postgres,blender&perline=50" />
     </a>
 </p>
