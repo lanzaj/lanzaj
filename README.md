@@ -48,13 +48,13 @@
 ## Language
 <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,rust,react,js,ts,html,css,ocaml&perline=50" />
+    <img src="https://skillicons.dev/icons?i=rust,dart,c,cpp,cs,python,js,ts,html,css,ocaml&perline=50" />
     </a>
 </p>
 
 ## Tools
 <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,git,gitlab,vim,vscode,docker,kubernetes,ansible,aws,blender&perline=50" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,gitlab,vim,vscode,docker,kubernetes,ansible,aws,react,postgresSQLflutter,blender&perline=50" />
     </a>
 </p>
