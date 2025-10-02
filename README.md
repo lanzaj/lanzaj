@@ -4,7 +4,7 @@
 # Projects
 ## Low Level
 
-| [Kernel From Scratch](https://github.com/lanzaj/kfs) | [Minishell](https://github.com/lanzaj/minishell) |
+| [Tetris on a custom Kernel](https://github.com/lanzaj/kfs) | [My own shell](https://github.com/lanzaj/minishell) |
 |---|---|
 |<a href="https://github.com/lanzaj/kfs"><img src="./kfs.webp" alt="Alt Text" style="width:400px;"></a>|<a href="https://github.com/lanzaj/minishell"><img src="./minishell.webp" alt="Alt Text" style="width:400px;"></a>|
 | An OS (kernel) in `Rust` and `asm`| A shell in coded in `C` |
@@ -16,14 +16,14 @@
 
 ## Video Games
 
-|[Cub3D](https://github.com/lanzaj/cub3d) | [So_long](https://github.com/lanzaj/so_long) |
+|[Raytracing Video Game](https://github.com/lanzaj/cub3d) | [So_long](https://github.com/lanzaj/so_long) |
 |---|---|
 |<a href="https://github.com/lanzaj/cub3d"><img src="./cub3d.webp" alt="Alt Text" style="width:400px;"></a>|<a href="https://github.com/lanzaj/so_long"><img src="./so_long.webp" alt="Alt Text" style="width:400px;"></a>|
 |A *Wolfensteing3D-like* in `C` without any game engine | A *2D* video game coded in `C` without any game engine|
 
 ## Data Structures & Algorithms
 
-|[Push_Swap](https://github.com/lanzaj/push_swap)| [Gomoku](https://github.com/lanzaj/gomoku)
+|[Stack Sorting](https://github.com/lanzaj/push_swap)| [Gomoku](https://github.com/lanzaj/gomoku)
 |---|---|
 |<a href="https://github.com/lanzaj/push_swap"><img src="./push_swap.webp" alt="Alt Text" style="width:400px;"></a>|<a href="https://github.com/lanzaj/gomoku"><img src="./gomoku.webp" alt="Alt Text" style="width:400px;"></a>|
 |Sorting a stack using another stack in `C`|AI for the game of Gomoku in `C++`|
