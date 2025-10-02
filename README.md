@@ -23,10 +23,10 @@
 
 ## Data Structures & Algorithms
 
-|[Push_Swap](https://github.com/lanzaj/push_swap)|
-|---|
-|<a href="https://github.com/lanzaj/push_swap"><img src="./push_swap.webp" alt="Alt Text" style="width:400px;"></a>|
-|Sorting a stack using another stack in `C`|
+|[Push_Swap](https://github.com/lanzaj/push_swap)| [Gomoku](https://github.com/lanzaj/gomoku)
+|---|---|
+|<a href="https://github.com/lanzaj/push_swap"><img src="./push_swap.webp" alt="Alt Text" style="width:400px;"></a>|<a href="https://github.com/lanzaj/gomoku"><img src="./gomoku.webp" alt="Alt Text" style="width:400px;"></a>|
+|Sorting a stack using another stack in `C`|AI bot that plays the game of gomoku in `C++`|
 
 <!---[Leetcode](https://leetcode.com/u/jlanza/)|-->
 <!---![LeetCode Stats](https://leetcard.jacoblin.cool/jlanza?theme=nord&font=Laila)|-->
