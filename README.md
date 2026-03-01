@@ -2,6 +2,7 @@
 [![jlanza's 42 stats](https://badge.mediaplus.ma/darkblue/jlanza?1337Badge=off&UM6P=off)](https://github.com/lanzaj)
 
 # Projects
+
 ## Low Level
 
 | [Tetris on a custom Kernel](https://github.com/lanzaj/kfs) | [My own shell](https://github.com/lanzaj/minishell) |
@@ -27,6 +28,13 @@
 |---|---|
 |<a href="https://github.com/lanzaj/push_swap"><img src="./push_swap.webp" alt="Alt Text" style="width:400px;"></a>|<a href="https://github.com/lanzaj/gomoku"><img src="./gomoku.webp" alt="Alt Text" style="width:400px;"></a>|
 |Sorting a stack using another stack in `C`|AI for the game of Gomoku in `C++`|
+
+## AI
+
+| [Computer Vision](https://github.com/lanzaj/Leaffliction) |
+|---|
+|<a href="https://github.com/lanzaj/Leaffliction"><img src="./Leaffliction.gif" alt="Alt Text" style="width:400px;"></a>|
+| Predicting plant diseases from leaf images in `Python` |
 
 <!---[Leetcode](https://leetcode.com/u/jlanza/)|-->
 <!---![LeetCode Stats](https://leetcard.jacoblin.cool/jlanza?theme=nord&font=Laila)|-->
