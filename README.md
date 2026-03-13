@@ -1,4 +1,4 @@
-[![jlanza's 42 stats](https://42cv.dev/api/badge/cmmdzlvsr0000uhkkzpqyg3a7/stats?cursusId=21&coalitionId=piscine)](https://42cv.dev/jlanza)
+[![jlanza's 42 stats](https://42cv.dev/api/badge/cmmdzlvsr0000uhkkzpqyg3a7/stats?cursusId=21&coalitionId=carbon)](https://42cv.dev/jlanza)
 
 # Projects
 
