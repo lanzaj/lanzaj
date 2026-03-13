@@ -1,5 +1,6 @@
 
 [![jlanza's 42 stats](https://badge.mediaplus.ma/darkblue/jlanza?1337Badge=off&UM6P=off)](https://github.com/lanzaj)
+[![jlanza's 42 stats](https://42cv.dev/api/badge/cmmdzlvsr0000uhkkzpqyg3a7/stats?cursusId=21&coalitionId=piscine)](https://42cv.dev/jlanza)
 
 # Projects
 
