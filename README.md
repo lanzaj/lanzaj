@@ -3,10 +3,10 @@
 
 ## AI
 
-| [Computer Vision](https://github.com/lanzaj/Leaffliction) |
-|---|
-|<a href="https://github.com/lanzaj/Leaffliction"><img src="./Leaffliction.gif" alt="Alt Text" style="width:400px;"></a>|
-| Predicting plant diseases from leaf images in `Python` |
+| [Computer Vision Machine Learning](https://github.com/lanzaj/Leaffliction) | [Gomoku](https://github.com/lanzaj/gomoku)
+|---|---|
+|<a href="https://github.com/lanzaj/Leaffliction"><img src="./Leaffliction.gif" alt="Alt Text" style="width:400px;"></a>|<a href="https://github.com/lanzaj/gomoku"><img src="./gomoku.webp" alt="Alt Text" style="width:400px;"></a>|
+| Predicting plant diseases from leaf images in `Python` |AI for the game of Gomoku in `C++`|
 
 ## Low Level
 
@@ -29,10 +29,10 @@
 
 ## Data Structures & Algorithms
 
-|[Stack Sorting](https://github.com/lanzaj/push_swap)| [Gomoku](https://github.com/lanzaj/gomoku)
-|---|---|
-|<a href="https://github.com/lanzaj/push_swap"><img src="./push_swap.webp" alt="Alt Text" style="width:400px;"></a>|<a href="https://github.com/lanzaj/gomoku"><img src="./gomoku.webp" alt="Alt Text" style="width:400px;"></a>|
-|Sorting a stack using another stack in `C`|AI for the game of Gomoku in `C++`|
+|[Stack Sorting](https://github.com/lanzaj/push_swap)|
+|---|
+|<a href="https://github.com/lanzaj/push_swap"><img src="./push_swap.webp" alt="Alt Text" style="width:400px;"></a>|
+|Sorting a stack using another stack in `C`|
 
 <!---[Leetcode](https://leetcode.com/u/jlanza/)|-->
 <!---![LeetCode Stats](https://leetcard.jacoblin.cool/jlanza?theme=nord&font=Laila)|-->
