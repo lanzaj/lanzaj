@@ -1,6 +1,12 @@
-[![jlanza's 42 stats](https://42cv.dev/api/badge/cmmdzlvsr0000uhkkzpqyg3a7/stats?cursusId=21&coalitionId=carbon)](https://42cv.dev/jlanza)
 
 # Projects
+
+## AI
+
+| [Computer Vision](https://github.com/lanzaj/Leaffliction) |
+|---|
+|<a href="https://github.com/lanzaj/Leaffliction"><img src="./Leaffliction.gif" alt="Alt Text" style="width:400px;"></a>|
+| Predicting plant diseases from leaf images in `Python` |
 
 ## Low Level
 
@@ -27,13 +33,6 @@
 |---|---|
 |<a href="https://github.com/lanzaj/push_swap"><img src="./push_swap.webp" alt="Alt Text" style="width:400px;"></a>|<a href="https://github.com/lanzaj/gomoku"><img src="./gomoku.webp" alt="Alt Text" style="width:400px;"></a>|
 |Sorting a stack using another stack in `C`|AI for the game of Gomoku in `C++`|
-
-## AI
-
-| [Computer Vision](https://github.com/lanzaj/Leaffliction) |
-|---|
-|<a href="https://github.com/lanzaj/Leaffliction"><img src="./Leaffliction.gif" alt="Alt Text" style="width:400px;"></a>|
-| Predicting plant diseases from leaf images in `Python` |
 
 <!---[Leetcode](https://leetcode.com/u/jlanza/)|-->
 <!---![LeetCode Stats](https://leetcard.jacoblin.cool/jlanza?theme=nord&font=Laila)|-->
@@ -65,3 +64,6 @@
     <img src="https://skillicons.dev/icons?i=linux,bash,git,gitlab,vim,vscode,docker,kubernetes,ansible,aws,postgres,blender&perline=50" />
     </a>
 </p>
+
+[![jlanza's 42 stats](https://42cv.dev/api/badge/cmmdzlvsr0000uhkkzpqyg3a7/stats?cursusId=21&coalitionId=carbon)](https://42cv.dev/jlanza)
+
